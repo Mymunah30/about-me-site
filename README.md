@@ -1,2 +1,2 @@
 # about-me-site
-My first HTML and CSS project
+My personal porfolio
